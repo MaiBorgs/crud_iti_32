@@ -1,0 +1,14 @@
+li{
+    list-style-type: none;
+    margin: 5px;
+    font-family: calibri;
+    font-size: 14px;
+    }
+    button{
+        background-color: rgb(111, 3, 212);
+        color: #fff;
+        font-family: calibri;
+        font-size: 14px;
+        border: 1px solid #000000;
+    }
+    
